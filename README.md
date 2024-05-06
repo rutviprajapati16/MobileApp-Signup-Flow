@@ -12,10 +12,10 @@ Error-free
 Secure**
 
 **WELCOME PAGE** &  **SIGN IN**
+
 <img src="https://github.com/rutviprajapati16/MobileApp-Signup-Flow/assets/97946004/fc35e463-90d7-410e-a397-4932bd4db50a" height="600" width="300">
 
 <img src="https://github.com/rutviprajapati16/MobileApp-Signup-Flow/assets/97946004/2d83e653-2796-4ee5-a607-b7d1ec370c35" height="600" width="300">
-
 
 **SIGN UP** & **OTP VERIFICATION**
 
