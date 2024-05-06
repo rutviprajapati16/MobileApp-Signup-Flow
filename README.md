@@ -11,18 +11,18 @@ Useful
 Error-free
 Secure**
 
+**WELCOME PAGE** &  **SIGN IN**
+<img src="https://github.com/rutviprajapati16/MobileApp-Signup-Flow/assets/97946004/fc35e463-90d7-410e-a397-4932bd4db50a" height="600" width="300">
 
-**SIGN IN**
+<img src="https://github.com/rutviprajapati16/MobileApp-Signup-Flow/assets/97946004/2d83e653-2796-4ee5-a607-b7d1ec370c35" height="600" width="300">
 
-<img src="https://github.com/rutviprajapati16/MobileApp-Signup-Flow/assets/97946004/4fe65072-9fbd-4d0b-9e0f-d83bb1803903" height="600" width="300">
 
-**SIGN UP**
+**SIGN UP** & **OTP VERIFICATION**
 
-<img src="https://github.com/rutviprajapati16/MobileApp-Signup-Flow/assets/97946004/da36d5e7-957c-4f7e-a5bb-232c02856db7" height="600" width="300">
+<img src="https://github.com/rutviprajapati16/MobileApp-Signup-Flow/assets/97946004/c3bdd2a6-0953-4558-8497-cdd5247e7acd" height="600" width="300">
 
-**OTP VERIFICATION**
+<img src="https://github.com/rutviprajapati16/MobileApp-Signup-Flow/assets/97946004/df56fe05-fe8c-4267-be76-97635a02ffdb" height="600" width="300">
 
-<img src="https://github.com/rutviprajapati16/MobileApp-Signup-Flow/assets/97946004/4d1770cb-47d1-4474-8556-51b951db821a" height="600" width="300">
 
 **SUCCESSFULLY AUTHENTICATION**
 
